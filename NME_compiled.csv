@@ -1,0 +1,52 @@
+State_Name,State_Abbr,nme_pre,nme_post
+Alabama,AL,1,1
+Alaska,AK,1,1
+Arizona,AZ,2,2
+Arkansas,AR,2,2
+California,CA,0,0
+Colorado,CO,2,2
+Connecticut,CT,1,0
+Delaware,DE,1,1
+District of Columbia,DC,0,0
+Florida,FL,1,1
+Georgia,GA,1,1
+Hawaii,HI,1,1
+Idaho,ID,2,2
+Illinois,IL,1,1
+Indiana,IN,1,1
+Iowa,IA,1,1
+Kansas,KS,1,1
+Kentucky,KY,1,1
+Louisiana,LA,2,2
+Maine,ME,2,0
+Maryland,MD,1,1
+Massachusetts,MA,1,1
+Michigan,MI,2,2
+Minnesota,MN,2,2
+Mississippi,MS,0,0
+Missouri,MO,1,1
+Montana,MT,1,1
+Nebraska,NE,1,1
+Nevada,NV,1,1
+New Hampshire,NH,1,1
+New Jersey,NJ,1,1
+New Mexico,NM,1,1
+New York,NY,1,0
+North Carolina,NC,1,1
+North Dakota,ND,2,2
+Ohio,OH,2,2
+Oklahoma,OK,2,2
+Oregon,OR,2,2
+Pennsylvania,PA,2,2
+Rhode Island,RI,1,1
+South Carolina,SC,1,1
+South Dakota,SD,1,1
+Tennessee,TN,1,1
+Texas,TX,2,2
+Utah,UT,2,2
+Vermont,VT,1,1
+Virginia,VA,1,1
+Washington,WA,2,1
+West Virginia,WV,0,0
+Wisconsin,WI,2,2
+Wyoming,WY,1,1
